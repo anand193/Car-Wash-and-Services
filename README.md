@@ -32,6 +32,9 @@ This project presents an interactive **Car Wash and Service Dashboard** designed
 
 - **Data Visualization Tool**: Power BI / Tableau  
 - **Data Processing**: Excel / CSV / SQL  
-- **Version Control**: Git & GitHub  
+- **Version Control**: Git & GitHub
+
+## 📷 Dashboard Preview
+![Adidas Dashboard Preview](https://github.com/anand193/Adidas-Sales-Analysis-Dashboard-Power-BI/blob/main/Imagesdashboard_preview.png)
 
 ---
